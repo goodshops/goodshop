@@ -11,6 +11,10 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         initView();
         initData();
+        asdasd();
+    }
+
+    private void asdasd() {
     }
 
     private void initData() {
